@@ -1,2 +1,4 @@
-# html-css-projects
-Simple HTML and CSS projects for web development practice
+# HTML & CSS Projects
+
+This repository contains beginner-friendly HTML and CSS projects
+created to practice web development fundamentals.
